@@ -1,4 +1,4 @@
-# Prediction of Swedish grammatical gender
+# Grammatical gender in Swedish is predictable using recurrent neural networks
 
 [Edvin Listo Zec, Olof Mogren Grammatical gender in Swedish is predictable using recurrent neural networks.](http://www.swecog.se/files/SweCog_2019.pdf)
 
